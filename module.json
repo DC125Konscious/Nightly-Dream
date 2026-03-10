@@ -2,8 +2,8 @@
   "id": "knightly-dream",
   "title": "Knightly-Dream",
   "version": "1.0.0",
-  "manifest": "https://github.com/my-user/my-module/releases/latest/download/module.json",
-  "download": "https://github.com/my-user/my-module/releases/download/1.0.0/module.zip",
+  "manifest": "https://github.com/DC125Konscious/Nightly-Dream/releases/latest/download/module.json",
+  "download": "https://github.com/DC125Konscious/Nightly-Dream/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
