@@ -1,0 +1,7 @@
+2026/03/10-10:52:51.845 6104 Recovering log #1100
+2026/03/10-10:52:51.853 6104 Delete type=0 #1100
+2026/03/10-10:52:51.853 6104 Delete type=3 #1098
+2026/03/10-10:56:05.672 27ac Level-0 table #1108: started
+2026/03/10-10:56:05.672 27ac Level-0 table #1108: 0 bytes OK
+2026/03/10-10:56:05.676 27ac Delete type=0 #1106
+2026/03/10-10:56:05.681 27ac Manual compaction at level-0 from '!folders!051ENWr9etLgreV2' @ 72057594037927935 : 1 .. '!journal.pages!zzq0zWRNwug6B4Tw.wsf8SfJIph4rz5Da' @ 0 : 0; will stop at (end)

@@ -1,0 +1,18 @@
+2026/03/10-10:51:23.323 289c Delete type=3 #1
+2026/03/10-10:51:23.925 27ac Compacting 3@0 + 0@1 files
+2026/03/10-10:51:23.945 27ac Generated table #3008@0: 1533 keys, 2122130 bytes
+2026/03/10-10:51:23.945 27ac Compacted 3@0 + 0@1 files => 2122130 bytes
+2026/03/10-10:51:23.949 27ac compacted to: files[ 1 1 0 0 0 0 0 ]
+2026/03/10-10:51:23.949 27ac Delete type=2 #2987
+2026/03/10-10:51:23.949 27ac Delete type=2 #2996
+2026/03/10-10:51:23.949 27ac Delete type=2 #2999
+2026/03/10-10:52:39.821 27ac Level-0 table #3010: started
+2026/03/10-10:52:39.821 27ac Level-0 table #3010: 0 bytes OK
+2026/03/10-10:52:39.825 27ac Delete type=0 #3007
+2026/03/10-10:52:39.840 27ac Manual compaction at level-0 from '!folders!01RFBEo69bVwHHLh' @ 72057594037927935 : 1 .. '!items.effects!zTh2kcO7fT1wYS4T.A2udpw7L3UTH0nJk' @ 0 : 0; will stop at '!items.effects!zTh2kcO7fT1wYS4T.A2udpw7L3UTH0nJk' @ 14231 : 1
+2026/03/10-10:52:39.840 27ac Compacting 1@0 + 0@1 files
+2026/03/10-10:52:39.870 27ac Generated table #3011@0: 597 keys, 857130 bytes
+2026/03/10-10:52:39.870 27ac Compacted 1@0 + 0@1 files => 857130 bytes
+2026/03/10-10:52:39.874 27ac compacted to: files[ 0 2 0 0 0 0 0 ]
+2026/03/10-10:52:39.874 27ac Delete type=2 #2988
+2026/03/10-10:52:39.890 27ac Manual compaction at level-0 from '!items.effects!zTh2kcO7fT1wYS4T.A2udpw7L3UTH0nJk' @ 14231 : 1 .. '!items.effects!zTh2kcO7fT1wYS4T.A2udpw7L3UTH0nJk' @ 0 : 0; will stop at (end)

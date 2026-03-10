@@ -1,0 +1,11 @@
+2026/03/10-10:51:23.365 304c Delete type=3 #1
+2026/03/10-10:52:39.825 27ac Level-0 table #871: started
+2026/03/10-10:52:39.825 27ac Level-0 table #871: 0 bytes OK
+2026/03/10-10:52:39.829 27ac Delete type=0 #869
+2026/03/10-10:52:39.874 27ac Manual compaction at level-0 from '!folders!03YUcBxNv7MK6CKx' @ 72057594037927935 : 1 .. '!items.effects!xgBSHrRkaBTnmJIn.vKnZzCQpmd45z5sC' @ 0 : 0; will stop at '!items.effects!xgBSHrRkaBTnmJIn.vKnZzCQpmd45z5sC' @ 2493 : 1
+2026/03/10-10:52:39.874 27ac Compacting 1@0 + 0@1 files
+2026/03/10-10:52:39.886 27ac Generated table #872@0: 867 keys, 829292 bytes
+2026/03/10-10:52:39.886 27ac Compacted 1@0 + 0@1 files => 829292 bytes
+2026/03/10-10:52:39.889 27ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/10-10:52:39.889 27ac Delete type=2 #778
+2026/03/10-10:52:39.890 27ac Manual compaction at level-0 from '!items.effects!xgBSHrRkaBTnmJIn.vKnZzCQpmd45z5sC' @ 2493 : 1 .. '!items.effects!xgBSHrRkaBTnmJIn.vKnZzCQpmd45z5sC' @ 0 : 0; will stop at (end)

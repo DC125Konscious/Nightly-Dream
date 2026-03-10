@@ -1,0 +1,81 @@
+2026/03/10-10:51:23.173 6104 Delete type=3 #1
+2026/03/10-10:51:23.173 27ac Compacting 16@0 + 0@1 files
+2026/03/10-10:51:23.251 27ac Generated table #1790@0: 497 keys, 2121538 bytes
+2026/03/10-10:51:23.360 27ac Generated table #1791@0: 467 keys, 2115826 bytes
+2026/03/10-10:51:23.383 27ac Generated table #1792@0: 446 keys, 2115742 bytes
+2026/03/10-10:51:23.461 27ac Generated table #1793@0: 1088 keys, 2121404 bytes
+2026/03/10-10:51:23.518 27ac Generated table #1794@0: 1831 keys, 2130100 bytes
+2026/03/10-10:51:23.594 27ac Generated table #1795@0: 1847 keys, 2129821 bytes
+2026/03/10-10:51:23.659 27ac Generated table #1796@0: 1864 keys, 2129006 bytes
+2026/03/10-10:51:23.730 27ac Generated table #1797@0: 1834 keys, 2128724 bytes
+2026/03/10-10:51:23.794 27ac Generated table #1798@0: 1733 keys, 2128849 bytes
+2026/03/10-10:51:23.858 27ac Generated table #1799@0: 1861 keys, 2129923 bytes
+2026/03/10-10:51:23.915 27ac Generated table #1800@0: 2576 keys, 2133684 bytes
+2026/03/10-10:51:23.921 27ac Generated table #1801@0: 1156 keys, 275527 bytes
+2026/03/10-10:51:23.921 27ac Compacted 16@0 + 0@1 files => 23660144 bytes
+2026/03/10-10:51:23.923 27ac compacted to: files[ 1 12 0 0 0 0 0 ]
+2026/03/10-10:51:23.923 27ac Delete type=2 #1682
+2026/03/10-10:51:23.923 27ac Delete type=2 #1703
+2026/03/10-10:51:23.923 27ac Delete type=2 #1716
+2026/03/10-10:51:23.923 27ac Delete type=2 #1758
+2026/03/10-10:51:23.923 27ac Delete type=2 #1759
+2026/03/10-10:51:23.923 27ac Delete type=2 #1771
+2026/03/10-10:51:23.924 27ac Delete type=2 #1772
+2026/03/10-10:51:23.924 27ac Delete type=2 #1773
+2026/03/10-10:51:23.924 27ac Delete type=2 #1774
+2026/03/10-10:51:23.924 27ac Delete type=2 #1775
+2026/03/10-10:51:23.924 27ac Delete type=2 #1776
+2026/03/10-10:51:23.924 27ac Delete type=2 #1777
+2026/03/10-10:51:23.924 27ac Delete type=2 #1778
+2026/03/10-10:51:23.924 27ac Delete type=2 #1779
+2026/03/10-10:51:23.924 27ac Delete type=2 #1780
+2026/03/10-10:51:23.925 27ac Delete type=2 #1787
+2026/03/10-10:51:23.951 27ac Moved #1790 to level-2 2121538 bytes OK: files[ 1 11 1 0 0 0 0 ]
+2026/03/10-10:51:23.953 27ac Moved #1791 to level-2 2115826 bytes OK: files[ 1 10 2 0 0 0 0 ]
+2026/03/10-10:51:23.955 27ac Moved #1792 to level-2 2115742 bytes OK: files[ 1 9 3 0 0 0 0 ]
+2026/03/10-10:51:23.957 27ac Moved #1793 to level-2 2121404 bytes OK: files[ 1 8 4 0 0 0 0 ]
+2026/03/10-10:51:23.959 27ac Moved #1794 to level-2 2130100 bytes OK: files[ 1 7 5 0 0 0 0 ]
+2026/03/10-10:51:23.960 27ac Moved #1795 to level-2 2129821 bytes OK: files[ 1 6 6 0 0 0 0 ]
+2026/03/10-10:51:23.962 27ac Moved #1796 to level-2 2129006 bytes OK: files[ 1 5 7 0 0 0 0 ]
+2026/03/10-10:52:39.819 27ac Level-0 table #1803: started
+2026/03/10-10:52:39.819 27ac Level-0 table #1803: 0 bytes OK
+2026/03/10-10:52:39.821 27ac Delete type=0 #1789
+2026/03/10-10:52:39.832 27ac Manual compaction at level-0 from '!actors!01OVf68xhW6Tc73R' @ 72057594037927935 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!folders!zohex4roU2c80op1' @ 15913 : 1
+2026/03/10-10:52:39.832 27ac Compacting 1@0 + 0@1 files
+2026/03/10-10:52:39.838 27ac Generated table #1804@0: 34 keys, 6068 bytes
+2026/03/10-10:52:39.838 27ac Compacted 1@0 + 0@1 files => 6068 bytes
+2026/03/10-10:52:39.839 27ac compacted to: files[ 0 6 7 0 0 0 0 ]
+2026/03/10-10:52:39.840 27ac Delete type=2 #1656
+2026/03/10-10:52:39.890 27ac Manual compaction at level-0 from '!folders!zohex4roU2c80op1' @ 15913 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at (end)
+2026/03/10-10:52:39.890 27ac Manual compaction at level-1 from '!actors!01OVf68xhW6Tc73R' @ 72057594037927935 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!actors.items!bIGy9LsiQQBMJV83.AegZ3P8ADAd9uPbg' @ 28794 : 1
+2026/03/10-10:52:39.890 27ac Compacting 1@1 + 0@2 files
+2026/03/10-10:52:39.963 27ac Generated table #1805@1: 1834 keys, 2128724 bytes
+2026/03/10-10:52:39.963 27ac Compacted 1@1 + 0@2 files => 2128724 bytes
+2026/03/10-10:52:39.966 27ac compacted to: files[ 0 5 8 0 0 0 0 ]
+2026/03/10-10:52:39.966 27ac Delete type=2 #1797
+2026/03/10-10:52:39.978 27ac Manual compaction at level-1 from '!actors.items!bIGy9LsiQQBMJV83.AegZ3P8ADAd9uPbg' @ 28794 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!actors.items!kI8hAPllYLyI76U7.Ef0OzRZWqZXWCHr4' @ 30920 : 1
+2026/03/10-10:52:39.978 27ac Compacting 1@1 + 0@2 files
+2026/03/10-10:52:40.045 27ac Generated table #1806@1: 1733 keys, 2128849 bytes
+2026/03/10-10:52:40.045 27ac Compacted 1@1 + 0@2 files => 2128849 bytes
+2026/03/10-10:52:40.047 27ac compacted to: files[ 0 4 9 0 0 0 0 ]
+2026/03/10-10:52:40.047 27ac Delete type=2 #1798
+2026/03/10-10:52:40.047 27ac Manual compaction at level-1 from '!actors.items!kI8hAPllYLyI76U7.Ef0OzRZWqZXWCHr4' @ 30920 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!actors.items!sdMmGnckiK09QmUN.NQmaf6S2OYnM92vQ' @ 33115 : 1
+2026/03/10-10:52:40.047 27ac Compacting 1@1 + 0@2 files
+2026/03/10-10:52:40.110 27ac Generated table #1807@1: 1861 keys, 2129923 bytes
+2026/03/10-10:52:40.110 27ac Compacted 1@1 + 0@2 files => 2129923 bytes
+2026/03/10-10:52:40.112 27ac compacted to: files[ 0 3 10 0 0 0 0 ]
+2026/03/10-10:52:40.112 27ac Delete type=2 #1799
+2026/03/10-10:52:40.125 27ac Manual compaction at level-1 from '!actors.items!sdMmGnckiK09QmUN.NQmaf6S2OYnM92vQ' @ 33115 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!actors.items.effects!hvKNngwsc6FG8Mqk.qU2q9j2iQbrlCj3m.HhwBnkuH5wJmQLwJ' @ 30275 : 1
+2026/03/10-10:52:40.125 27ac Compacting 1@1 + 0@2 files
+2026/03/10-10:52:40.180 27ac Generated table #1808@1: 2576 keys, 2133684 bytes
+2026/03/10-10:52:40.180 27ac Compacted 1@1 + 0@2 files => 2133684 bytes
+2026/03/10-10:52:40.182 27ac compacted to: files[ 0 2 11 0 0 0 0 ]
+2026/03/10-10:52:40.182 27ac Delete type=2 #1800
+2026/03/10-10:52:40.182 27ac Manual compaction at level-1 from '!actors.items.effects!hvKNngwsc6FG8Mqk.qU2q9j2iQbrlCj3m.HhwBnkuH5wJmQLwJ' @ 30275 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at '!folders!zohex4roU2c80op1' @ 15913 : 1
+2026/03/10-10:52:40.182 27ac Compacting 2@1 + 0@2 files
+2026/03/10-10:52:40.190 27ac Generated table #1809@1: 1190 keys, 281131 bytes
+2026/03/10-10:52:40.190 27ac Compacted 2@1 + 0@2 files => 281131 bytes
+2026/03/10-10:52:40.192 27ac compacted to: files[ 0 0 12 0 0 0 0 ]
+2026/03/10-10:52:40.192 27ac Delete type=2 #1801
+2026/03/10-10:52:40.192 27ac Delete type=2 #1804
+2026/03/10-10:52:40.205 27ac Manual compaction at level-1 from '!folders!zohex4roU2c80op1' @ 15913 : 1 .. '!folders!zohex4roU2c80op1' @ 0 : 0; will stop at (end)
